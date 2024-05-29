@@ -4,7 +4,7 @@ from config.database import engine, Base
 from middlewares.error_handler import ErrorHandler
 from routers.movie import movie_router
 from routers.user import user_router
-
+# Hola Este Codigo no es de Codigo abierto asi que si lo Copias tendras graves problemas Legales
 
 
 app = FastAPI()
